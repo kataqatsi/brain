@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - Read List/latest tech.md",
+                "file": "R - Productivity/Text Editor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Read List/latest tech.md",
+                "file": "R - Productivity/Text Editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Read List/latest tech.md",
+                "file": "R - Productivity/Text Editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Read List/latest tech.md"
+                "file": "R - Productivity/Text Editor.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "3cc456a5663ee195",
   "lastOpenFiles": [
-    "README.md",
+    "R - Productivity/Terminal.md",
+    "R - Productivity/Text Editor.md",
+    "R - Productivity/Calendar.md",
+    "R - DevTools/AI.md",
     "R - Read List/latest tech.md",
+    "README.md",
     "A - My setup/Software Things.md",
     "R - Read List",
     "A - My setup/Physical Things.md",
@@ -161,12 +165,8 @@
     "KB360-PRO-OH-1818x1362-1-1536x1151.md",
     "KB360-PRO-OH-1818x1362-1-1536x1151 1.jpg",
     "A - My setup/images",
-    "R - DevTools/AI.md",
     "Untitled.md",
     "R - DevTools",
-    "R - Productivity/Text Editor.md",
-    "R - Productivity/Terminal.md",
-    "R - Productivity/Calendar.md",
     "TOS.md",
     "2023 - Archive/A - test/A - test.md",
     "2023 - Archive/A - test",

@@ -2,17 +2,19 @@ My Journey to max productivity
 
 ## Calendar apps
 
-In the process of trying:
+Currently trying out:
 - [Vimcal](https://www.vimcal.com/)
 	- Love the idea of being more personable than calendly
 	- Not a huge fan of the mobile app so far
 		- the vertical scrolling sometimes hides meetings
 
-Have tried:
+Tried and liked:
 - [Google Calendar](https://calendar.google.com) (used for years)
-- [Apple Calendar](https://apps.apple.com/us/app/calendar/id1108185179)
 
-Maybe worth checking out:
+Tried and didn't like:
+-[Apple Calendar](https://apps.apple.com/us/app/calendar/id1108185179)
+
+Haven't tried:
 - [Cron](https://cron.com/)
 
 ## Scheduling Meetings

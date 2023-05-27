@@ -1,1 +1,1 @@
-[Hacker News Recap ]
+[Hacker News Recap](https://hackernewsrecap.buzzsprout.com/) - ai generated podcast
