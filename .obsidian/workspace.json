@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - test.md",
+                "file": "A - test/A - test.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - test.md",
+                "file": "A - test/A - test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7d829ca2ed74a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b49da60183063e9e",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - test.md"
+                "file": "README.md"
               }
             }
           }
@@ -192,12 +204,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "90797ef20edba0b0",
+  "active": "d7d829ca2ed74a14",
   "lastOpenFiles": [
-    "R - test.md",
+    "2023 - Archive/A - test/A - test.md",
+    "A - test/A - test.md",
+    "R - test/R - test.md",
     "README.md",
     "TOS.md",
-    "A - test.md",
+    "2023 - Archive/A - test",
+    "R - test",
+    "A - test",
     "2023 - Archive",
     "REDME.md"
   ]
