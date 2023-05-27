@@ -16,6 +16,7 @@ Maybe worth checking out:
 - [Cron](https://cron.com/)
 
 ## Scheduling Meetings
+
 - [Vimcal](https://www.vimcal.com/)
 - [Calendly](https://calendly.com/)
 - [Cal](https://cal.com/)

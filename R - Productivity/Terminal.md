@@ -18,5 +18,5 @@ Tried and didn't like:
 ## Additional
 
 Currently using:
-- zsh
-- oh-my-zsh
+- [zsh](https://www.zsh.org/)
+- [oh-my-zsh](https://ohmyz.sh/)
