@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - My setup/Physical Things.md",
+                "file": "A - My setup/Software Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - My setup/Physical Things.md",
+                "file": "A - My setup/Software Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - My setup/Physical Things.md",
+                "file": "A - My setup/Software Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - My setup/Physical Things.md"
+                "file": "A - My setup/Software Things.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "3cc456a5663ee195",
   "lastOpenFiles": [
-    "A - My setup/images/kinesis-360.jpg",
     "A - My setup/Physical Things.md",
+    "Pasted image 20230527144456.png",
+    "Screenshot 2023-05-27 at 2.45.27 PM.png",
+    "Screenshot 2023-05-27 at 2.47.01 PM.png",
+    "A - My setup/images/kinesis-360.jpg",
     "KB360-PRO-OH-1818x1362-1-1536x1151.md",
     "KB360-PRO-OH-1818x1362-1-1536x1151 1.jpg",
     "A - My setup/images",
