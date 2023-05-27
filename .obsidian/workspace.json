@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - Productivity/Text Editor.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Productivity/Text Editor.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Productivity/Text Editor.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Productivity/Text Editor.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "3cc456a5663ee195",
   "lastOpenFiles": [
+    "R - Productivity/Text Editor.md",
     "R - Productivity/Terminal.md",
     "R - Productivity/Calendar.md",
-    "R - Productivity/Text Editor.md",
     "README.md",
     "A - test/test.md",
     "TOS.md",
