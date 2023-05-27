@@ -1,4 +1,4 @@
-## kataqatsi's second brain
+# kataqatsi's second brain
 
 - Github: [https://github.com/kataqatsi/brain](https://github.com/kataqatsi/brain) (PRs welcome)
 - Obsidian: [https://publish.obsidian.md/kataqatsi](https://publish.obsidian.md/kataqatsi)
@@ -14,5 +14,5 @@ These notes are "raw"
     - R - resources for stuff i like
     - Archive - for misc past junk i dont see myself needing anymore
     - not everything is public, sorry if your thing isn't on here
-- **This is a public digital garden - Terms of Service: [TERMS OF SERVICE](TERMS%20OF%20SERVICE.md)
+- **This is a public digital garden - Terms of Service: [TOS](TOS.md)
 - There is no explicit licensing on this because these are personal notes - you are welcome to read them, contribute to them, suggest additions - **just do not copy them and share them as your own**.
