@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "R - DevTools/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "R - DevTools/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "R - DevTools/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "R - DevTools/AI.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "3cc456a5663ee195",
   "lastOpenFiles": [
+    "Untitled.md",
+    "R - DevTools/AI.md",
+    "R - DevTools",
     "R - Productivity/Text Editor.md",
     "R - Productivity/Terminal.md",
     "R - Productivity/Calendar.md",
