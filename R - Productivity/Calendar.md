@@ -1,5 +1,4 @@
-My Journey to the max productivity
-
+My Journey to max productivity
 
 ## Calendar apps
 

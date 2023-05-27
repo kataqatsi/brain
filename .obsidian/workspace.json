@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - Productivity/Calendar.md",
+                "file": "R - Productivity/Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Productivity/Calendar.md",
+                "file": "R - Productivity/Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Productivity/Calendar.md",
+                "file": "R - Productivity/Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Productivity/Calendar.md"
+                "file": "R - Productivity/Terminal.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "3cc456a5663ee195",
   "lastOpenFiles": [
-    "R - Productivity/Terminal.md",
     "R - Productivity/Calendar.md",
+    "R - Productivity/Terminal.md",
+    "README.md",
     "A - test/test.md",
     "TOS.md",
-    "README.md",
     "2023 - Archive/A - test/A - test.md",
     "2023 - Archive/A - test",
     "A - test",
