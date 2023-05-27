@@ -1,7 +1,5 @@
 My Journey to max productivity
 
-
-
 Currently using:
 - I switch around between these depending on what I'm doing:
 	- [VSCode](https://code.visualstudio.com/)

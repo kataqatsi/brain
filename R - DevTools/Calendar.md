@@ -2,7 +2,7 @@ My Journey to max productivity
 
 ## Calendar apps
 
-Currently trying out:
+Currently using/trying out:
 - [Vimcal](https://www.vimcal.com/)
 	- Love the idea of being more personable than calendly
 	- Not a huge fan of the mobile app so far

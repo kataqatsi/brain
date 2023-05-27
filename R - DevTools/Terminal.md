@@ -2,7 +2,7 @@ My Journey to max productivity
 
 ## Terminals
 
-Currently trying out:
+Currently using/trying out:
 - [Warp](https://www.warp.dev/)
 	- love it so far
 	- power of a text editor in the terminal
