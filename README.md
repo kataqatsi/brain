@@ -9,7 +9,7 @@ Follow me on twitter [kataqatsi](https://www.twitter.com/intent/follow?screen_na
 
 ## User Guide
 
-- I will rearrange and rename at any time with no notice
+- I will rearrange and rename at any time with no notice 
 - The folders are named in [PARA](https://fortelabs.co/blog/para/) format - optimizing for:
 	- P - near-term projects i want to do
 	- A - standards i want to upkeep
