@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9f95c09acf78d84",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3cc456a5663ee195",
             "type": "leaf",
             "state": {
@@ -26,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ab30eb43728f916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "700ae3e49e8c4b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - test/A - test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef24a723b4b597bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - test/A - test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7d829ca2ed74a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +147,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d7d829ca2ed74a14",
+  "active": "3cc456a5663ee195",
   "lastOpenFiles": [
-    "R - test/R - test.md",
-    "README.md",
-    "2023 - Archive/A - test/A - test.md",
-    "A - test/A - test.md",
     "TOS.md",
+    "A - test/A - test.md",
+    "README.md",
+    "R - test/R - test.md",
+    "2023 - Archive/A - test/A - test.md",
     "2023 - Archive/A - test",
     "R - test",
     "A - test",
