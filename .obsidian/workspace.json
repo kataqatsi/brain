@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - DevTools/Communication.md",
+                "file": "A - My setup/Software Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - DevTools/Communication.md",
+                "file": "A - My setup/Software Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - DevTools/Communication.md",
+                "file": "A - My setup/Software Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - DevTools/Communication.md"
+                "file": "A - My setup/Software Things.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "3cc456a5663ee195",
   "lastOpenFiles": [
+    "A - My setup/Physical Things.md",
+    "R - DevTools/Communication.md",
     "R - DevTools/Calendar.md",
     "R - DevTools/AI.md",
     "A - My setup/Software Things.md",
-    "A - My setup/Physical Things.md",
     "R - DevTools/Text Editor.md",
     "R - Read List/latest tech.md",
-    "R - DevTools/Communication.md",
     "R - DevTools/Terminal.md",
     "README.md",
     "R - Read List",
