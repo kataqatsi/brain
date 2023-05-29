@@ -6,3 +6,18 @@
 - [jitter](https://jitter.video/) - animation creator/editor
 - [wiseone](https://wiseone.io/) - chrome extension quickly summarize page
 - [hacker news recap](https://hackernewsrecap.buzzsprout.com/) ai generated podcast
+- [10web](https://t.co/vjwOgPahHT)- website builder/name generator
+- [krispAI](https://t.co/hWAhyeKHXb) - meeting notes
+- [Stockimg.ai](https://t.co/XrVzqMqQwR) - logo generator
+- [levity.ai](https://t.co/dIbYHuxm27) - automate tasks.. 
+	- Email outreach
+	- Analyzing customer feedbacks
+	- E-commerce
+	- Social media monitoring
+- [compose.ai](https://t.co/23S3oXl3bt) chrome extension. help write emails
+- [mypitchdeck.com](https://t.co/wSqAbFyEXl) - pitch deck generator
+- [theprohuman.ai](https://t.co/yTsVX53eor) - free newsletter
+- [phrasee.co](https://t.co/jr4I9huP3W) - automate email marketing
+- [runwayml.com](https://t.co/lKROr5Sg66) generate video, editing
+- [frase.io](https://t.co/E4sVLL8glL) seo optimized content
+- [tammy.ai](https://t.co/QcpYx96To1) - youtube video researcher

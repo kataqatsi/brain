@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - My setup/Software Things.md",
+                "file": "R - DevTools/AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36ac3cda107f6a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A - FiSh/Social.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - My setup/Software Things.md",
+                "file": "A - FiSh/Social.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - My setup/Software Things.md",
+                "file": "A - FiSh/Social.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - My setup/Software Things.md"
+                "file": "A - FiSh/Social.md"
               }
             }
           }
@@ -147,18 +160,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3cc456a5663ee195",
+  "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
-    "A - My setup/Physical Things.md",
-    "R - DevTools/Text Editor.md",
+    "R - DevTools/AI.md",
     "R - DevTools/Terminal.md",
     "R - DevTools/Communication.md",
     "R - DevTools/Calendar.md",
-    "R - DevTools/AI.md",
+    "A - FiSh/Social.md",
+    "A - My setup/Software Things.md",
+    "A - My setup/Physical Things.md",
+    "R - DevTools/Text Editor.md",
     "R - Read List/latest tech.md",
     "README.md",
     "TOS.md",
-    "A - My setup/Software Things.md",
+    "A - FiSh",
     "R - Read List",
     "Pasted image 20230527144456.png",
     "Screenshot 2023-05-27 at 2.45.27 PM.png",
@@ -167,7 +182,6 @@
     "KB360-PRO-OH-1818x1362-1-1536x1151.md",
     "KB360-PRO-OH-1818x1362-1-1536x1151 1.jpg",
     "A - My setup/images",
-    "Untitled.md",
     "R - DevTools",
     "2023 - Archive/A - test/A - test.md",
     "2023 - Archive/A - test",
