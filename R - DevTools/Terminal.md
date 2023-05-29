@@ -3,7 +3,7 @@ My Journey to max productivity
 ## Terminals
 
 Currently using/trying out:
-- [Warp](https://www.warp.dev/)
+- [Warp](https://www.warp.dev/) - my referral link: [referral link](https://app.warp.dev/referral/GVEK59)
 	- love it so far
 	- power of a text editor in the terminal
 		- multicursor
@@ -16,6 +16,7 @@ Tried and liked:
 	
 Tried and didn't like:
 - [kitty](https://sw.kovidgoyal.net/kitty/)
+- [Alacritty](https://github.com/alacritty/alacritty)
 
 Haven't tried:
 
