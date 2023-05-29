@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - FiSh/Social.md",
+                "file": "R - DevTools/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - FiSh/Social.md",
+                "file": "R - DevTools/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - FiSh/Social.md",
+                "file": "R - DevTools/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - FiSh/Social.md"
+                "file": "R - DevTools/AI.md"
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
+    "A - FiSh/Social.md",
+    "A - My setup/Physical Things.md",
     "R - DevTools/AI.md",
     "R - DevTools/Terminal.md",
     "R - DevTools/Communication.md",
     "R - DevTools/Calendar.md",
-    "A - FiSh/Social.md",
     "A - My setup/Software Things.md",
-    "A - My setup/Physical Things.md",
     "R - DevTools/Text Editor.md",
     "R - Read List/latest tech.md",
     "README.md",
