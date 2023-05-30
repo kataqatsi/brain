@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - DevTools/Text Editor.md",
+                "file": "R - DevTools/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - DevTools/Text Editor.md",
+                "file": "R - DevTools/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - DevTools/Text Editor.md",
+                "file": "R - DevTools/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - DevTools/Text Editor.md"
+                "file": "R - DevTools/AI.md"
               }
             }
           }
@@ -162,12 +162,12 @@
   },
   "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
-    "2023-05-30.md",
-    "R - DevTools/Text Editor.md",
-    "R - DevTools/Terminal.md",
-    "R - DevTools/Communication.md",
     "R - DevTools/Calendar.md",
     "R - DevTools/AI.md",
+    "R - DevTools/Text Editor.md",
+    "2023-05-30.md",
+    "R - DevTools/Terminal.md",
+    "R - DevTools/Communication.md",
     "R - Read List/latest tech.md",
     "A - FiSh/Social.md",
     "A - My setup/Physical Things.md",
