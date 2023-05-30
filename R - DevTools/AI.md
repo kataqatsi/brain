@@ -21,4 +21,4 @@
 - [runwayml.com](https://t.co/lKROr5Sg66) generate video, editing
 - [frase.io](https://t.co/E4sVLL8glL) seo optimized content
 - [tammy.ai](https://t.co/QcpYx96To1) - youtube video researcher
-- 
+- [aomni.com](https://www.aomni.com) - research assistant
