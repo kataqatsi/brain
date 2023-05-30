@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cc456a5663ee195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R - DevTools/AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "36ac3cda107f6a63",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,20 +149,25 @@
   },
   "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
-    "R - DevTools/Calendar.md",
-    "R - DevTools/AI.md",
-    "R - DevTools/Text Editor.md",
-    "2023-05-30.md",
-    "R - DevTools/Terminal.md",
-    "R - DevTools/Communication.md",
-    "R - Read List/latest tech.md",
-    "A - FiSh/Social.md",
-    "A - My setup/Physical Things.md",
-    "A - My setup/Software Things.md",
     "README.md",
     "TOS.md",
-    "A - FiSh",
+    "R - Read List/latest tech.md",
     "R - Read List",
+    "R - DevTools/Text Editor.md",
+    "R - DevTools/Terminal.md",
+    "R - DevTools/Communication.md",
+    "R - DevTools/AI.md",
+    "R - DevTools/Calendar.md",
+    "R - DevTools",
+    "A - FiSh/Social.md",
+    "A - FiSh",
+    "2023 - Archive/A - test/A - test.md",
+    "2023 - Archive/A - test",
+    "2023 - Archive",
+    "conflict-files-obsidian-git.md",
+    "2023-05-30.md",
+    "A - My setup/Physical Things.md",
+    "A - My setup/Software Things.md",
     "Pasted image 20230527144456.png",
     "Screenshot 2023-05-27 at 2.45.27 PM.png",
     "Screenshot 2023-05-27 at 2.47.01 PM.png",
@@ -183,12 +175,8 @@
     "KB360-PRO-OH-1818x1362-1-1536x1151.md",
     "KB360-PRO-OH-1818x1362-1-1536x1151 1.jpg",
     "A - My setup/images",
-    "R - DevTools",
-    "2023 - Archive/A - test/A - test.md",
-    "2023 - Archive/A - test",
     "A - My setup",
     "R - Productivity",
-    "2023 - Archive",
     "REDME.md"
   ]
 }
