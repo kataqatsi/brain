@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - DevTools/AI.md",
+                "file": "R - Read List/latest tech.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - DevTools/AI.md",
+                "file": "R - Read List/latest tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - DevTools/AI.md",
+                "file": "R - Read List/latest tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - DevTools/AI.md"
+                "file": "R - Read List/latest tech.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
     "README.md",
+    "R - DevTools/AI.md",
     "TOS.md",
     "R - Read List/latest tech.md",
     "R - Read List",
     "R - DevTools/Text Editor.md",
     "R - DevTools/Terminal.md",
     "R - DevTools/Communication.md",
-    "R - DevTools/AI.md",
     "R - DevTools/Calendar.md",
     "R - DevTools",
     "A - FiSh/Social.md",
