@@ -17,8 +17,9 @@ Everyone follows this process either unconsciously or consciously and some peopl
 For instance:
 - Some people might capture too much information or capture the wrong information.
 - Others might be bad at organizing the information they gather. Be it in their head or written down
-- Others might struggle to Distill, or make information handy for their future self. This could make reading an entire book feel really great but when youn  you need to use the info and you have to read the entire book again.
-- And other might be bad at expressing the things that they have learned
+- Others might struggle to Distill, or make information handy for their future self. This could make reading an entire book feel really great but when you need to use the info, end up being useless as  you need to read the entire book again.
+- And others might be bad at expressing the things that they have learned or express garbage through capturing garbage.
 
-Any one section of this process that is lacking can affect the entire throughput. And in turn make you not able to accurately convey information, be scatter brained, or be disorganized in general.
+Any one section of this process that is lacking can affect the entire throughput - aka you. And in turn make you not able to accurately convey information, be scatter brained, or be disorganized in general.
 
+ 
