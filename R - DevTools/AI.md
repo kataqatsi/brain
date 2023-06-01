@@ -22,3 +22,19 @@
 - [frase.io](https://t.co/E4sVLL8glL) seo optimized content
 - [tammy.ai](https://t.co/QcpYx96To1) - youtube video researcher
 - [aomni.com](https://www.aomni.com) - research assistant
+- Eightify.app - AI Youtube Summaries  
+- Cohesive.so - Create magical content  
+- Chatmasters.io - PA & Customer Support
+- Stockimg.ai - Create images with AI  
+- Humata.ai - Chat with any document
+- Durable.co - Ai website builder
+- Beautiful.ai - AI presentation maker  
+- tldv.io - Meeting notes with AI
+- Humata.ai - Chat with any document    
+- [https://supertools.therundown.ai](https://supertools.therundown.ai/) - list of ai tools
+- https://graphy.app/ - insights on data graphed
+- https://www.freepik.com/ai/image-generator - image gen
+- https://fina.xyz/ - financial advisor
+
+falcon40b now royalty free
+https://twitter.com/tiiuae/status/1663911042559234051?s=46
