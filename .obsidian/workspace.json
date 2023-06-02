@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61b09f873816207e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R - DevTools/Note Taking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - DevTools/Note Taking.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - DevTools/Note Taking.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - DevTools/Note Taking.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,13 +147,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "61b09f873816207e",
+  "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
-    "README.md",
-    "R - DevTools/Note Taking.md",
-    "R - CODE",
     "R - DevTools/AI.md",
+    "R - DevTools/Note Taking.md",
     "R - Read List/latest tech.md",
+    "README.md",
     "TOS.md",
     "R - Read List",
     "R - DevTools/Text Editor.md",
