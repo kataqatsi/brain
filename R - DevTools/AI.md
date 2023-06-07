@@ -38,3 +38,6 @@
 
 falcon40b now royalty free
 https://twitter.com/tiiuae/status/1663911042559234051?s=46
+
+
+L
