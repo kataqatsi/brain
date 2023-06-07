@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e18b65abf749310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R - DevTools/AI.md",
+                "file": "R - DevTools/Calendar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - DevTools/AI.md",
+                "file": "R - DevTools/Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - DevTools/AI.md",
+                "file": "R - DevTools/Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - DevTools/AI.md"
+                "file": "R - DevTools/Calendar.md"
               }
             }
           }
@@ -160,16 +147,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9e18b65abf749310",
+  "active": "36ac3cda107f6a63",
   "lastOpenFiles": [
-    "TOS.md",
+    "R - DevTools/Communication.md",
     "README.md",
+    "R - DevTools/Untitled.md",
+    "R - DevTools/AI.md",
+    "TOS.md",
     "R - DevTools/Note Taking.md",
     "R - Read List/latest tech.md",
     "R - Read List",
     "R - DevTools/Text Editor.md",
     "R - DevTools/Terminal.md",
-    "R - DevTools/Communication.md",
     "R - DevTools/Calendar.md",
     "R - DevTools",
     "A - FiSh/Social.md",

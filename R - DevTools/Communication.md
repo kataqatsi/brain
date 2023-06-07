@@ -7,3 +7,9 @@
 - Slack
 - Discord
 - Telegram
+
+## Interviewing 
+[https://twitter.com/steventey/status/1666503360420409344?s=20](https://twitter.com/steventey/status/1666503360420409344?s=20)
+- **P** = problem/situation/issue
+- **A** = action (what did you do?)
+- **R** = result
